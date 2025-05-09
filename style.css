@@ -78,3 +78,12 @@
     width: 400px;
 }
 
+.three-images {
+    display: flex;
+    justify-content: center;
+}
+
+.three-images img {
+    width: 400px;
+    padding: 5px;
+}
