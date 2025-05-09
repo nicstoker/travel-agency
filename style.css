@@ -22,7 +22,7 @@
 }
 .centre img {
    
-    width: 300px;
+    width: 400px;
 
 }
 
@@ -44,7 +44,26 @@
 }
 
 #footer a {
-    padding: 5px;
+    padding: 15px;
     text-decoration: none;
 }
 
+.greece {
+    display: flex;
+    justify-content: center;
+}
+
+.greece img {
+
+    width: 400px;
+}
+
+.japan {
+    display: flex;
+    justify-content: center;
+}
+
+.japan img {
+
+    width: 400px;
+}
