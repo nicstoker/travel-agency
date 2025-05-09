@@ -16,7 +16,11 @@
     color: rgb(4, 4, 66);
 }
 
-.image img {
+.centre {
+    display: flex;
+    justify-content: center;
+}
+.centre img {
    
     width: 300px;
 
@@ -27,12 +31,10 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 300px;
+    padding-right: 300px;
     text-align: center;
 }
 
-.centre-text p {
-    font-size: 2;
-}
+
 
