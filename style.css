@@ -67,3 +67,14 @@
 
     width: 400px;
 }
+
+.centre-image {
+    display: flex;
+    justify-content: center;
+
+}
+
+.centre-image img {
+    width: 400px;
+}
+
