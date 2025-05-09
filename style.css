@@ -36,5 +36,15 @@
     text-align: center;
 }
 
+#footer {
+    display: flex;
+    justify-content: center;
+    background-color: lightskyblue;
+    flex-direction: row;
+}
 
+#footer a {
+    padding: 5px;
+    text-decoration: none;
+}
 
